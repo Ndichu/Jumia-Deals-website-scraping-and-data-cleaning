@@ -72,5 +72,5 @@ These are general guidelines I used in data cleaning
 * These two functions are super-handy if you have data that needs to be split or combined. @CONCATENATE will create a single column from multiple columns and values, you can even insert text in between the concatenated values
 
 ## STEP 8: GET RID OF DUPLICATES
-![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/jsplit.png "GET RID OF DUPLICATES")
+![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
 
