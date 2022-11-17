@@ -27,10 +27,14 @@ Jumia Deals website data scraping with python and data cleaning
 
 # Inspiration
 **Why this scrapin and analysis ?**
-1. Understand Product & Market Trends.
+
+1. **insight into pricing data** 
+
+2. **insight into market dynamics and analysis** 
 
 # Data scraping 
  **Refer to the jupyter file ie jumia website scraping.ipynb to see,interact with the code and follow scraping process** 
+ 
 # Data cleaning process 
 # DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
