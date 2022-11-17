@@ -1,42 +1,42 @@
-> # Jumia-Deals-website-scraping-and-data-cleaning
+<details><summary> # Jumia-Deals-website-scraping-and-data-cleaning</summary>
 Jumia Deals website data scraping with python and data cleaning
-
-> ## About Jumia
+</details>
+<details><summary> ## About Jumia</summary>
 * Jumia is the largest online retail store in Kenya. Country-wide Delivery in Kenya.
 * 1 in Kenya online retailer and is present in Morocco, Egypt Uganda and many other African countries.
-
-> # :dart: Scraping Goals 
+</details>
+<details><summary> # :dart: Scraping Goals </summary>
 ## Get :->
 
 1. **insight into pricing data** 
 
 2. **insight into market dynamics and analysis** 
-
-# :toolbox: libraries used
+</details>
+<details><summary> # :toolbox: libraries used</summary>
 1. pandas
 2. BeautifulSoup
 3. matplotlib
 4. seaborn
 
 
-
-> # Repository Map
+</details>
+<details><summary> # Repository Map</summary>
 1. :ballot_box_with_check: clean_jumia_deals_In_Kenya.csv - the cleaned scrape data fro jumia
 2. :ballot_box_with_check: jumia website scraping.ipynb - the jupyter notebook containing all the scrape code.
 3. :ballot_box_with_check: jumia website analysis.ipynb - the jupyter notebook containing all analysis and visualization code. 
 4. :ballot_box_with_check: README.md
-
-> # Inspiration
+</details>
+<details><summary># Inspiration</summary>
 >> **Why this scrapin and analysis ?**
 
 1. **insight into pricing data** 
 
 2. **insight into market dynamics and analysis** 
 
-> # Data scraping 
+<details><summary> # Data scraping </summary>
  >> **Refer to the jupyter file ie jumia website scraping.ipynb to see,interact with the code and follow scraping process** 
- 
-> # Data cleaning process 
+ </details>
+<details><summary> # Data cleaning process </summary>
 >> # DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
 >>> ## steps used in data cleaning
@@ -78,10 +78,12 @@ These are general guidelines I used in data cleaning
 
 >> ## STEP 8: GET RID OF DUPLICATES
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
-
-> # ANALYSIS FINDINGS
+</details>
+<details><summary> # ANALYSIS FINDINGS </summary>
 >>  **insight into pricing data** 
 * Prices are higher in major towns especialy in Nairobi
 * There are more products and services posted online in Nairobi as compared to other locations.
 * In relation to time, products and services and frequenlty posted in big towns as compared to small towns.
 * In relation to location and prices , high priced goods are posted in major towns 
+ </details>
+ </details>
