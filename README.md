@@ -22,8 +22,9 @@ Jumia Deals website data scraping with python and data cleaning
 
 # Repository Map
 1. :ballot_box_with_check: clean_jumia_deals_In_Kenya.csv - the cleaned scrape data fro jumia
-2. :ballot_box_with_check: jumia website scraping.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
-3. :ballot_box_with_check: README.md
+2. :ballot_box_with_check: jumia website scraping.ipynb - the jupyter notebook containing all the scrape code.
+3. :ballot_box_with_check: jumia website analysis.ipynb - the jupyter notebook containing all analysis and visualization code. 
+4. :ballot_box_with_check: README.md
 
 # Inspiration
 **Why this scrapin and analysis ?**
