@@ -54,12 +54,12 @@ These are general guidelines I used in data cleaning
 * Unstructured data
 * Partial or incomplete values
 * Duplicates
-</details>
+
 - ## STEP 2 : REMOVING NON-PRINTING CHARACTORS
 <details><summary> REMOVING NON-PRINTING CHARACTORS</summary>
  * I made use of the trim, clean, and substitute functions to get rid of these unwanted and non-printing characters.
 * ![USE OF TRIM IN DATA CLEANING](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM.png "USE OF TRIM IN DATA CLEANING")
-</details>
+
  
 - ## STEP 3: GET RID OF UNNECESSARY SPACING
  <details><summary>GET RID OF UNNECESSARY SPACING</summary>
@@ -71,27 +71,32 @@ These are general guidelines I used in data cleaning
   <details><summary> CONVERT 'TEXT-NUMBERES' TO NUMBERS</summary>
 * some numbers might be stored as text and this could be an issue
 * ![GET RID OF UNNECESSARY SPACING](https://george.m.ndichu.ltd.co.ke/media/github/jcolumnf.png "GET RID OF UNNECESSARY SPACING")
-</details>
+
     
 - ## STEP 5: CORRECT CASES IE UPPER AND LOWER CASES
    <details><summary>CORRECT CASES IE UPPER AND LOWER CASES</summary>
 * To ensure a professional and clean appearance Correct Use of Cases
 * ![CORRECT CASES IE UPPER AND LOWER CASES](https://george.m.ndichu.ltd.co.ke/media/github/jCASE.png "CORRECT CASES IE UPPER AND LOWER CASES")
 
-  </details>
+ 
 - ## STEP 6: PARSE DATA TO COLUMNS
   <details><summary>PARSE DATA TO COLUMNS</summary>
 * This is for data crammed into a single spreadsheet cell
 * ![PARSE DATA TO COLUMNS](https://george.m.ndichu.ltd.co.ke/media/github/jsplit.png "PARSE DATA TO COLUMNS")
 
- </details>
 - ## STEP 7: USE THE @CONCATENATE and @SPLIT fUNCTIONS TO RESTRUCTURE RECORDS to
   <details><summary>USE THE @CONCATENATE and @SPLIT fUNCTIONS</summary>
 * These two functions are super-handy if you have data that needs to be split or combined. @CONCATENATE will create a single column from multiple columns and values, you can even insert text in between the concatenated values
-</details>
+
 - ## STEP 8: GET RID OF DUPLICATES
   <details><summary>GET RID OF DUPLICATES</summary>
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
 </details>
 </details>
 
