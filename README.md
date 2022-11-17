@@ -42,7 +42,7 @@ Jumia Deals website data scraping with python and data cleaning
 These are general guidelines I used in data cleaning
 
 <details><summary> steps used in data cleaning </summary>
-- STEP 1: DATA PROFILING
+<details><summary> STEP 1: DATA PROFILING </summary>
 *First things first. study the data to determine what methods of cleaning to do.
 
 - ## KEY PROBLEMS TO LOOK OUT FOR
@@ -68,7 +68,7 @@ These are general guidelines I used in data cleaning
 
   
 - ## STEP 4: CONVERT 'TEXT-NUMBERES' TO NUMBERS
-   <details><summary> CONVERT 'TEXT-NUMBERES' TO NUMBERS</summary>
+  <details><summary> CONVERT 'TEXT-NUMBERES' TO NUMBERS</summary>
 * some numbers might be stored as text and this could be an issue
 * ![GET RID OF UNNECESSARY SPACING](https://george.m.ndichu.ltd.co.ke/media/github/jcolumnf.png "GET RID OF UNNECESSARY SPACING")
 
@@ -80,7 +80,7 @@ These are general guidelines I used in data cleaning
 
     
 - ## STEP 6: PARSE DATA TO COLUMNS
-    <details><summary>PARSE DATA TO COLUMNS</summary>
+  <details><summary>PARSE DATA TO COLUMNS</summary>
 * This is for data crammed into a single spreadsheet cell
 * ![PARSE DATA TO COLUMNS](https://george.m.ndichu.ltd.co.ke/media/github/jsplit.png "PARSE DATA TO COLUMNS")
 
@@ -90,8 +90,11 @@ These are general guidelines I used in data cleaning
 * These two functions are super-handy if you have data that needs to be split or combined. @CONCATENATE will create a single column from multiple columns and values, you can even insert text in between the concatenated values
 
 - ## STEP 8: GET RID OF DUPLICATES
-   <details><summary>GET RID OF DUPLICATES</summary>
+  <details><summary>GET RID OF DUPLICATES</summary>
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
+</details>
+</details>
+</details>
 </details>
 </details>
 </details>
