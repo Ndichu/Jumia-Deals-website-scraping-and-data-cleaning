@@ -79,3 +79,9 @@ These are general guidelines I used in data cleaning
 ## STEP 8: GET RID OF DUPLICATES
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
 
+# ANALYSIS FINDINGS
+ **insight into pricing data** 
+* Prices are higher in major towns especialy in Nairobi
+* There are more products and services posted online in Nairobi as compared to other locations.
+* In relation to time, products and services and frequenlty posted in big towns as compared to small towns.
+* In relation to location and prices , high priced goods are posted in major towns 
