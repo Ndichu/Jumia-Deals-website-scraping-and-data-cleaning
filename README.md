@@ -14,7 +14,7 @@ Jumia Deals website data scraping with python and data cleaning
 
 2. **insight into market dynamics and analysis** 
 
-# :toolbox: libraries used</summary>
+# :toolbox: libraries used
 1. pandas
 2. BeautifulSoup
 3. matplotlib
@@ -28,7 +28,7 @@ Jumia Deals website data scraping with python and data cleaning
 4. :ballot_box_with_check: README.md
 
 # Inspiration
->> **Why this scrapin and analysis ?**
+**Why this scrapin and analysis ?**
 
 1. **insight into pricing data** 
 
@@ -40,7 +40,8 @@ Jumia Deals website data scraping with python and data cleaning
  # Data cleaning process 
 # DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
-<details><summary>## steps used in data cleaning
+
+<details><summary>## steps used in data cleaning</details>
 > ## STEP 1: DATA PROFILING
 *First things first. study the data to determine what methods of cleaning to do.
 
