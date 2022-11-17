@@ -41,7 +41,7 @@ Jumia Deals website data scraping with python and data cleaning
 # DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
 
-<details><summary>## steps used in data cleaning</details>
+<details><summary>## steps used in data cleaning</summary></details>
 - ## STEP 1: DATA PROFILING
 *First things first. study the data to determine what methods of cleaning to do.
 
@@ -80,7 +80,6 @@ These are general guidelines I used in data cleaning
 
 - ## STEP 8: GET RID OF DUPLICATES
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
-</details>
 </details>
  # ANALYSIS FINDINGS
 **insight into pricing data** 
