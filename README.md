@@ -41,7 +41,7 @@ Jumia Deals website data scraping with python and data cleaning
 # DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
 
-<details><summary>## steps used in data cleaning</summary>
+<details><summary># steps used in data cleaning</summary>
 - ## STEP 1: DATA PROFILING
 *First things first. study the data to determine what methods of cleaning to do.
 
