@@ -1,46 +1,47 @@
-<details><summary> # Jumia-Deals-website-scraping-and-data-cleaning</summary>
+# Jumia-Deals-website-scraping-and-data-cleaning
 Jumia Deals website data scraping with python and data cleaning
-</details>
-<details><summary> ## About Jumia</summary>
+
+
+ ## About Jumia
 * Jumia is the largest online retail store in Kenya. Country-wide Delivery in Kenya.
 * 1 in Kenya online retailer and is present in Morocco, Egypt Uganda and many other African countries.
-</details>
-<details><summary> # :dart: Scraping Goals </summary>
+
+
+# :dart: Scraping Goals
 ## Get :->
 
 1. **insight into pricing data** 
 
 2. **insight into market dynamics and analysis** 
-</details>
-<details><summary> # :toolbox: libraries used</summary>
+
+# :toolbox: libraries used</summary>
 1. pandas
 2. BeautifulSoup
 3. matplotlib
 4. seaborn
 
 
-</details>
-<details><summary> # Repository Map</summary>
+ # Repository Map
 1. :ballot_box_with_check: clean_jumia_deals_In_Kenya.csv - the cleaned scrape data fro jumia
 2. :ballot_box_with_check: jumia website scraping.ipynb - the jupyter notebook containing all the scrape code.
 3. :ballot_box_with_check: jumia website analysis.ipynb - the jupyter notebook containing all analysis and visualization code. 
 4. :ballot_box_with_check: README.md
-</details>
-<details><summary># Inspiration</summary>
+
+# Inspiration
 >> **Why this scrapin and analysis ?**
 
 1. **insight into pricing data** 
 
 2. **insight into market dynamics and analysis** 
 
-<details><summary> # Data scraping </summary>
- >> **Refer to the jupyter file ie jumia website scraping.ipynb to see,interact with the code and follow scraping process** 
- </details>
-<details><summary> # Data cleaning process </summary>
->> # DATA CLEANING WITH GOOGLE SHEET
+# Data scraping
+  **Refer to the jupyter file ie jumia website scraping.ipynb to see,interact with the code and follow scraping process** 
+
+ # Data cleaning process 
+# DATA CLEANING WITH GOOGLE SHEET
 These are general guidelines I used in data cleaning
->>> ## steps used in data cleaning
-## STEP 1: DATA PROFILING
+<details><summary>## steps used in data cleaning
+> ## STEP 1: DATA PROFILING
 *First things first. study the data to determine what methods of cleaning to do.
 
 >> ## KEY PROBLEMS TO LOOK OUT FOR
@@ -53,7 +54,7 @@ These are general guidelines I used in data cleaning
 * Partial or incomplete values
 * Duplicates
 
->> ## STEP 2 : REMOVING NON-PRINTING CHARACTORS
+> ## STEP 2 : REMOVING NON-PRINTING CHARACTORS
 * I made use of the trim, clean, and substitute functions to get rid of these unwanted and non-printing characters.
 * ![USE OF TRIM IN DATA CLEANING](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM.png "USE OF TRIM IN DATA CLEANING")
 
@@ -79,11 +80,11 @@ These are general guidelines I used in data cleaning
 >> ## STEP 8: GET RID OF DUPLICATES
 ![GET RID OF DUPLICATES](https://george.m.ndichu.ltd.co.ke/media/github/JTRIM2.png "GET RID OF DUPLICATES")
 </details>
-<details><summary> # ANALYSIS FINDINGS </summary>
->>  **insight into pricing data** 
+</details>
+ # ANALYSIS FINDINGS
+**insight into pricing data** 
 * Prices are higher in major towns especialy in Nairobi
 * There are more products and services posted online in Nairobi as compared to other locations.
 * In relation to time, products and services and frequenlty posted in big towns as compared to small towns.
 * In relation to location and prices , high priced goods are posted in major towns 
- </details>
- </details>
+ 
