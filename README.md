@@ -1,3 +1,7 @@
+
+![JUMIA](https://ajiras.com/wp-content/uploads/2019/12/jumia-980x405.jpg "JUMIA")
+
+
 # Jumia-Deals-website-scraping-and-data-cleaning
 Jumia Deals website data scraping with python and data cleaning
 
